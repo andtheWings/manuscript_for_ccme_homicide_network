@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/andtheWings/manuscript_for_ccme_homicide_network/tree/gh-pages) branch hosts the contents of this directory at <https://andtheWings.github.io/manuscript_for_ccme_homicide_network/>.
-The permalink for this webpage version is <https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/>.
+The permalink for this webpage version is <https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/b0265df88dd111c7e9144dd55f1d5a48a39f3260/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`9a22fab4497f80f501ea361d028f26888ad9d5a0`](https://github.com/andtheWings/manuscript_for_ccme_homicide_network/commit/9a22fab4497f80f501ea361d028f26888ad9d5a0).
+[`b0265df88dd111c7e9144dd55f1d5a48a39f3260`](https://github.com/andtheWings/manuscript_for_ccme_homicide_network/commit/b0265df88dd111c7e9144dd55f1d5a48a39f3260).
