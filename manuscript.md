@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/" />
   <meta name="citation_pdf_url" content="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/" />
-  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/b0265df88dd111c7e9144dd55f1d5a48a39f3260/" />
+  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/b0265df88dd111c7e9144dd55f1d5a48a39f3260/" />
+  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/b0265df88dd111c7e9144dd55f1d5a48a39f3260/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/))
+([permalink](https://andtheWings.github.io/manuscript_for_ccme_homicide_network/v/b0265df88dd111c7e9144dd55f1d5a48a39f3260/))
 was automatically generated
-from [andtheWings/manuscript_for_ccme_homicide_network@9a22fab](https://github.com/andtheWings/manuscript_for_ccme_homicide_network/tree/9a22fab4497f80f501ea361d028f26888ad9d5a0)
+from [andtheWings/manuscript_for_ccme_homicide_network@b0265df](https://github.com/andtheWings/manuscript_for_ccme_homicide_network/tree/b0265df88dd111c7e9144dd55f1d5a48a39f3260)
 on June 8, 2022.
 </em></small>
 
